@@ -1,0 +1,20 @@
+head {
+  color: pink;
+  background-color: pink;
+}
+
+footer {
+  color: white;
+  background-color: pink;
+}
+h3 {
+  color: black;
+  background-color: pink;
+}
+
+.card {
+  width: 32%;
+  margin-left: 1%;
+  color: mediumvioletred;
+  background-color: mediumvioletred;
+}
