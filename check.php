@@ -22,9 +22,7 @@
   type: text/html;charset=utf-8\r\n";
 
 
-  mail('3foxsky@protonmail.com', $subject, $message, $headers);
+  mail('kseniia@protonmail.com', $subject, $message, $headers);
 
-  header('Location: /about.php'); 
-
-
+  header('Location: /about.php');
  ?>
