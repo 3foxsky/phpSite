@@ -5,7 +5,7 @@ head {
 
 footer {
   color: white;
-  background-color: yellow;
+  background-color: pink;
 }
 h3 {
   color: black;
@@ -17,7 +17,4 @@ h3 {
   margin-left: 1%;
   color: mediumvioletred;
   background-color: mediumvioletred;
-}
-div {
-  word-wrap: normal;
 }
