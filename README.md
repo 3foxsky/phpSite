@@ -1,5 +1,5 @@
 # phpSite
-TUKE task
+TUKE task.
 Simple website via PHP.
 Contact form and basic site construction.
 Authentication. 
